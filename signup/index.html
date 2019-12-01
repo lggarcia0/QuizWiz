@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Login to COMP 426</title>
+
+        <!-- Include links to CSS stylesheets below -->
+        <link rel="stylesheet" href="../node_modules/bulma/css/bulma.css" />
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+
+    <body>
+        <div class="field">
+            <label class="label">Name</label>
+            <div class="control">
+                <input class="input" type="text" placeholder="Text input">
+            </div>
+        </div>
+          
+        <div class="field">
+            <label class="label">Username</label>
+            <div class="control has-icons-left has-icons-right">
+                <input class="input" type="text" placeholder="username" value="">
+                <span class="icon is-small is-left">
+                    <i class="fas fa-user"></i>
+                </span>
+                <span class="icon is-small is-right">
+                    <i class="fas fa-check"></i>
+                </span>
+            </div>
+        </div>
+          
+          <div class="field">
+            <label class="label">Email</label>
+            <div class="control has-icons-left has-icons-right">
+              <input class="input " type="email" placeholder="Insert Email" value="">
+              <span class="icon is-small is-left">
+                <i class="fas fa-envelope"></i>
+              </span>
+              <span class="icon is-small is-right">
+                <i class="fas fa-exclamation-triangle"></i>
+              </span>
+            </div>
+          </div>
+          
+          <div class="field">
+            <label class="label">Target Language</label>
+            <div class="control">
+              <div class="select">
+                <select>
+                  <option>English</option>
+                  <option>Japanese</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="field is-grouped">
+            <div class="control">
+              <button class="button is-link">Submit</button>
+            </div>
+            <div class="control">
+              <button class="button is-link is-light">Cancel</button>
+            </div>
+          </div>
+        <script src="../node_modules/jquery/dist/jquery.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
