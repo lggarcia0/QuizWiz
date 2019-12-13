@@ -1,2 +1,130 @@
 {
+  "users": {
+    "love": {
+      "passwordHash": "$2a$10$hlp5unrqIq8g1oQQGqRDa.GtmMFNm0yYr5mQawOU/RdxQDu7pZBrS"
+    },
+    "sss": {
+      "passwordHash": "$2a$10$p8ykhgxc.1EdLY992V9S0ufhy55zQbv7uwyWGhGGH2ps5/v2gDv9K"
+    },
+    "abba": {
+      "passwordHash": "$2a$10$704wCPbkdbFXCGWlsOS6nueDbg6BYtewgJ9q.MD3vHtMWu/rPoF0q"
+    },
+    "adda": {
+      "passwordHash": "$2a$10$ha4bJGKU2DVq4sWXZkv0ZORNKhg8/BXh.4yIyXF7tz5R2DtNweHaW"
+    },
+    "acca": {
+      "passwordHash": "$2a$10$K6LtfHvDeYIwWzESA3ABGerPOAd/gm8dg7FwPoEu5bSmHL1pQTEUW"
+    },
+    "akka": {
+      "passwordHash": "$2a$10$fteDI.pfd/uBgyZUduztFO2GxSqIpVp62bTnBoa2ACW.rgftRzT0C"
+    },
+    "ss": {
+      "passwordHash": "$2a$10$cuxh8cnXqoL0jY5AAdXmHeBoExBiwMcw9mALNebN77CidB7QJW9rC"
+    },
+    "tom": {
+      "passwordHash": "$2a$10$AscMnCb/4LGaT4ej2AKIq.Sacr2/cU1y4B9K/HYGPoyxgdwZleeV6"
+    },
+    "why": {
+      "passwordHash": "$2a$10$gQPUTcMQW7/raDsoYXEswu.FGCR6v4x7jbAd4JqcwDOe9gU53Rx5a"
+    },
+    "que": {
+      "passwordHash": "$2a$10$Ngrt/lDbEg/brgsQoRs89OzKyiqGQeKxccW3lLmgJhjb8d5.oBRJm"
+    },
+    "porque": {
+      "passwordHash": "$2a$10$7DE7uvOnUc82R..dCY6uHumZV8KV3xPGW1mvwt68OcVi6.EYb6GG6"
+    },
+    "signup": {
+      "passwordHash": "$2a$10$SaylKwu6LSnP6pwCxt0SJ.OpGEYZxiPq8WooRU8yHD5z67yGuvIBK"
+    },
+    "selfloath": {
+      "passwordHash": "$2a$10$snuUe60kL0RL3YOYjk3K7.q8OANWobnh/5uWUgDXOfVi2lHloGSsi"
+    },
+    "oijoij": {
+      "passwordHash": "$2a$10$1lU9DVGfNBrEML1stHmn4.KeTagFiP.Il3r77Gz.ZEtG.0SQFqKem"
+    },
+    "john": {
+      "passwordHash": "$2a$10$vWtu3UTHj6pEbr3NrGyzoelIMS8b3lT48UDhiddzsBucBuar2liZ6"
+    },
+    "dick": {
+      "passwordHash": "$2a$10$XxHMvRibflwxn9psRsSMC.yLC09go6TfZTKo0EBG0vzjPevbAgUWq"
+    },
+    "james": {
+      "passwordHash": "$2a$10$j7K/a9WMgxlt7NMYrv5XZO1F603DYaUlaKeBXXHB2JuGxyKdZcj.6"
+    },
+    "batman": {
+      "passwordHash": "$2a$10$IR2NFlkZqr.ZKLOknwgy4OEYHSG8aOy40sIU/THcIK/6bisvlNgHW"
+    },
+    "lggarcia": {
+      "passwordHash": "$2a$10$cB04iCZT0FNAozyPivVyP.ARYtqV7BHVDGuxgTBTah3G0zGMkwj0y"
+    },
+    "anotherjuan": {
+      "passwordHash": "$2a$10$yeWoQj0SuBsqObZw.ecjWOAaj4uguwpQizpUmL8lvmvNawzZX2UVe"
+    },
+    "lggarciao": {
+      "passwordHash": "$2a$10$gTOCkblG5.pa3Cb00Im4duDBHwfZlzsBtuG/AEC6FRvRjEUirpxEy"
+    },
+    "skater": {
+      "passwordHash": "$2a$10$PBzpttBjRxgbay9wMA94L.PeJSoPsN5ju5.6hmBr1X4rswI4bdWcC"
+    },
+    "lamo": {
+      "passwordHash": "$2a$10$ayWVjlocTYSLC4TLZmXyuu/P2Qf4R7RSAuREzpj5PwJCIBNC8rDRm"
+    },
+    "okidoki": {
+      "passwordHash": "$2a$10$dHlNJxeaAilympaZYZknSOkiRQ8QZ0GbY3qvtXnHq4/iqBrVwUWOK"
+    },
+    "samsara": {
+      "passwordHash": "$2a$10$FPFKWH804jI5a68mqThTqOA5WMo.dkGJDtEo48Qk8dHjYqe5ckSNa"
+    },
+    "yo": {
+      "passwordHash": "$2a$10$OrAKEZ6AtE/XSV2jFSxh2.mILxgXMzxnl5JiBdMCYjwXNn.A9LDVe"
+    },
+    "nother": {
+      "passwordHash": "$2a$10$yxhdrsK1KPxc3.TsTjm.1OwLBfQvaHa4DSBD5na5V.JDkt.Tp/6ym"
+    },
+    "anotheruser": {
+      "passwordHash": "$2a$10$fzrz.7iTeZGUhbJISilpFuF76x.dhtM1oTWvRNB8mwMkWmXtxWBMK"
+    },
+    "sqwdqw": {
+      "passwordHash": "$2a$10$SbdSvV37vFMeeVJHI5DP4e9axOJUEpIYjd8zWYwcuwYQlSITE64n."
+    },
+    "sewfewvwev": {
+      "passwordHash": "$2a$10$/1GuoS08S01ptIAk/bJO0ug6Hg6KhKPX.2etzGCYGdse0/YZ4rELK"
+    },
+    "sdfsdf": {
+      "passwordHash": "$2a$10$2UCIaT3pD.nak/.mKoLeZuTIuu7GDILqVn3Eg6EZQdWnges5e/6gu"
+    },
+    "rookie": {
+      "passwordHash": "$2a$10$kMzjhasYVBWIJDggmAM8cOvgyl1MYdeDh99AvUTq06dc8NbkLoVNq"
+    },
+    "yourname": {
+      "passwordHash": "$2a$10$2fhlyLqOPBlY.QKdXC74aeGOtyHKza6iWwSDSD2hQVxjhng/Nfe56"
+    },
+    "miabee": {
+      "passwordHash": "$2a$10$AxFXY2geWTGFM5sHvAMcMutmQdr6wGWIpCybQLShg9PtZQqlUquxm"
+    },
+    "jsoijsoi": {
+      "passwordHash": "$2a$10$714YllMMjKLxS62n0KE9EOIab5wkst8iG1bY1j6I1cj7dKQK8g/Ym"
+    },
+    "lol": {
+      "passwordHash": "$2a$10$XFe71Mi56IxzAOUEaIGNJ.ECr7d7NsiF3Y.zq3cSXLmwikGks.a7W"
+    },
+    "tn": {
+      "passwordHash": "$2a$10$7cTa6sc8zb4.AmYbh3Q/yOFVlW21Kk/MRm82NJr.wbYBQHc4fznf."
+    },
+    "hds": {
+      "passwordHash": "$2a$10$pnFxd7gAVLlx4tN6nmGRku.YGVD9R1BQU3M4f1FGfcaM3slJow.xC"
+    },
+    "scotth": {
+      "passwordHash": "$2a$10$bH8dklKyYVrywfLSiR1L/uuNRKdx7iHAY7BCHccpwpoYwC42pU3Si"
+    },
+    "ih": {
+      "passwordHash": "$2a$10$L6GgVwHs41HK73AOglB4huZ6doEalYumJY7MCHOKFzWdCGI3FOJUa"
+    },
+    "testfinal": {
+      "passwordHash": "$2a$10$pK.6gk3XAFyfLZwyPFXTT.brixDxYU.HQpbdaC5iEsBJLRwIFqyJq"
+    },
+    "testfinal2": {
+      "passwordHash": "$2a$10$FIjkw6td/2516B2eu9DmiepBWx944HWg4UIaYnmO0LJpEaUFMnZhS"
+    }
+  }
 }

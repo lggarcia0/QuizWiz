@@ -1,2 +1,804 @@
 {
+  "batman": {
+    "decks": {
+      "1234": {
+        "name": "hiragana",
+        "author": "batman",
+        "isPublished": false,
+        "cards": [
+          {
+            "front": "あ",
+            "back": "a"
+          },
+          {
+            "front": "い",
+            "back": "i"
+          },
+          {
+            "front": "う",
+            "back": "u"
+          },
+          {
+            "front": "え",
+            "back": "e"
+          },
+          {
+            "front": "お",
+            "back": "o"
+          },
+          {
+            "front": "か",
+            "back": "ka"
+          },
+          {
+            "front": "き",
+            "back": "ki"
+          },
+          {
+            "front": "く",
+            "back": "ku"
+          },
+          {
+            "front": "け",
+            "back": "ke"
+          },
+          {
+            "front": "こ",
+            "back": "ko"
+          },
+          {
+            "front": "さ",
+            "back": "sa"
+          },
+          {
+            "front": "し",
+            "back": "shi"
+          },
+          {
+            "front": "す",
+            "back": "su"
+          },
+          {
+            "front": "せ",
+            "back": "se"
+          },
+          {
+            "front": "そ",
+            "back": "so"
+          },
+          {
+            "front": "た",
+            "back": "ta"
+          },
+          {
+            "front": "ち",
+            "back": "chi"
+          },
+          {
+            "front": "つ",
+            "back": "tsu"
+          },
+          {
+            "front": "て",
+            "back": "te"
+          },
+          {
+            "front": "と",
+            "back": "to"
+          },
+          {
+            "front": "な",
+            "back": "na"
+          },
+          {
+            "front": "に",
+            "back": "ni"
+          },
+          {
+            "front": "ぬ",
+            "back": "nu"
+          },
+          {
+            "front": "ね",
+            "back": "ne"
+          },
+          {
+            "front": "の",
+            "back": "no"
+          },
+          {
+            "front": "は",
+            "back": "ha"
+          },
+          {
+            "front": "ひ",
+            "back": "hi"
+          },
+          {
+            "front": "ふ",
+            "back": "fu"
+          },
+          {
+            "front": "へ",
+            "back": "he"
+          },
+          {
+            "front": "ほ",
+            "back": "ho"
+          },
+          {
+            "front": "ま",
+            "back": "ma"
+          },
+          {
+            "front": "み",
+            "back": "mi"
+          },
+          {
+            "front": "む",
+            "back": "mu"
+          },
+          {
+            "front": "め",
+            "back": "me"
+          },
+          {
+            "front": "も",
+            "back": "mo"
+          },
+          {
+            "front": "や",
+            "back": "ya"
+          },
+          {
+            "front": "ゆ",
+            "back": "yu"
+          },
+          {
+            "front": "よ",
+            "back": "yo"
+          },
+          {
+            "front": "ら",
+            "back": "ra"
+          },
+          {
+            "front": "り",
+            "back": "ri"
+          },
+          {
+            "front": "る",
+            "back": "ru"
+          },
+          {
+            "front": "れ",
+            "back": "re"
+          },
+          {
+            "front": "ろ",
+            "back": "ro"
+          },
+          {
+            "front": "わ",
+            "back": "wa"
+          },
+          {
+            "front": "を",
+            "back": "wo"
+          },
+          {
+            "front": "ん",
+            "back": "n"
+          }
+        ]
+      },
+      "5678": {
+        "name": "katakana",
+        "author": "batman",
+        "isPublished": true,
+        "cards": [
+          {
+            "front": "ア",
+            "back": "a"
+          },
+          {
+            "front": "イ",
+            "back": "i"
+          },
+          {
+            "front": "ウ",
+            "back": "u"
+          },
+          {
+            "front": "エ",
+            "back": "e"
+          },
+          {
+            "front": "オ",
+            "back": "o"
+          },
+          {
+            "front": "カ",
+            "back": "ka"
+          },
+          {
+            "front": "キ",
+            "back": "ki"
+          },
+          {
+            "front": "ク",
+            "back": "ku"
+          },
+          {
+            "front": "ケ",
+            "back": "ke"
+          },
+          {
+            "front": "コ",
+            "back": "ko"
+          },
+          {
+            "front": "サ",
+            "back": "sa"
+          },
+          {
+            "front": "シ",
+            "back": "shi"
+          },
+          {
+            "front": "ス",
+            "back": "su"
+          },
+          {
+            "front": "セ",
+            "back": "se"
+          },
+          {
+            "front": "ソ",
+            "back": "so"
+          },
+          {
+            "front": "タ",
+            "back": "ta"
+          },
+          {
+            "front": "チ",
+            "back": "chi"
+          },
+          {
+            "front": "ツ",
+            "back": "tsu"
+          },
+          {
+            "front": "テ",
+            "back": "te"
+          },
+          {
+            "front": "ト",
+            "back": "to"
+          },
+          {
+            "front": "ナ",
+            "back": "na"
+          },
+          {
+            "front": "ニ",
+            "back": "ni"
+          },
+          {
+            "front": "ヌ",
+            "back": "nu"
+          },
+          {
+            "front": "ネ",
+            "back": "ne"
+          },
+          {
+            "front": "ノ",
+            "back": "no"
+          },
+          {
+            "front": "ハ",
+            "back": "ha"
+          },
+          {
+            "front": "ヒ",
+            "back": "hi"
+          },
+          {
+            "front": "フ",
+            "back": "fu"
+          },
+          {
+            "front": "ヘ",
+            "back": "he"
+          },
+          {
+            "front": "ホ",
+            "back": "ho"
+          },
+          {
+            "front": "マ",
+            "back": "ma"
+          },
+          {
+            "front": "ミ",
+            "back": "mi"
+          },
+          {
+            "front": "ム",
+            "back": "mu"
+          },
+          {
+            "front": "メ",
+            "back": "me"
+          },
+          {
+            "front": "モ",
+            "back": "mo"
+          },
+          {
+            "front": "ヤ",
+            "back": "ya"
+          },
+          {
+            "front": "ユ",
+            "back": "yu"
+          },
+          {
+            "front": "ヨ",
+            "back": "yo"
+          },
+          {
+            "front": "ラ",
+            "back": "ra"
+          },
+          {
+            "front": "リ",
+            "back": "ri"
+          },
+          {
+            "front": "ル",
+            "back": "ru"
+          },
+          {
+            "front": "レ",
+            "back": "re"
+          },
+          {
+            "front": "ロ",
+            "back": "ro"
+          },
+          {
+            "front": "ワ",
+            "back": "wa"
+          },
+          {
+            "front": "ヲ",
+            "back": "wo"
+          },
+          {
+            "front": "ン",
+            "back": "n"
+          }
+        ]
+      },
+      "1576206032231": {
+        "name": "Villain Vocab",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "The Joker",
+            "back": "The Criminal Prince of Madness"
+          },
+          {
+            "front": "The Riddler",
+            "back": "Edward Nigma"
+          },
+          {
+            "front": "The Penguin",
+            "back": "Oswald Chesterfield Cobblepot"
+          },
+          {
+            "front": "Catwoman",
+            "back": "Selina Kyle"
+          },
+          {
+            "front": "Two Face",
+            "back": "Harvey Dent"
+          },
+          {
+            "front": "Ra's al Ghul",
+            "back": "Ra's al Ghul"
+          },
+          {
+            "front": "Bane",
+            "back": "Antonio Diego"
+          },
+          {
+            "front": "Poison Ivy",
+            "back": "Paula Irving"
+          }
+        ]
+      }
+    }
+  },
+  "lamo": {
+    "Decks": {},
+    "decks": {
+      "1576180127403": {
+        "name": "Deck",
+        "author": "lamo",
+        "cards": [
+          {
+            "front": "more",
+            "back": "more"
+          }
+        ]
+      }
+    }
+  },
+  "okidoki": {
+    "Decks": {}
+  },
+  "samsara": {
+    "decks": {
+      "1576180434873": {
+        "name": "ok",
+        "author": "samsara",
+        "cards": [
+          {
+            "front": "ok not this one",
+            "back": "another one"
+          },
+          {
+            "front": "another one",
+            "back": "sire"
+          }
+        ]
+      },
+      "1576180439622": {
+        "name": "another",
+        "author": "samsara",
+        "cards": [
+          {
+            "front": "ok",
+            "back": "another"
+          },
+          {
+            "front": "what is happening",
+            "back": "here?"
+          }
+        ]
+      },
+      "1576184032174": {
+        "name": "Buddhist Teachings",
+        "author": "samsara",
+        "cards": [
+          {
+            "front": "Samsara",
+            "back": "Hell"
+          },
+          {
+            "front": "Enlightenment",
+            "back": "Growing Wiser"
+          }
+        ]
+      },
+      "1576184094371": {
+        "name": "om",
+        "author": "samsara",
+        "cards": [
+          {
+            "front": "om",
+            "back": "om"
+          }
+        ]
+      }
+    }
+  },
+  "yourname": {
+    "decks": {
+      "1576191130628": {
+        "name": "Starter Deck",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          }
+        ]
+      }
+    }
+  },
+  "miabee": {
+    "decks": {
+      "1576191319875": {
+        "name": "Starter Deck",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          },
+          {
+            "front": "What is my favorite color",
+            "back": "green"
+          }
+        ]
+      },
+      "1576191398961": {
+        "name": "green",
+        "author": "miabee",
+        "cards": []
+      }
+    }
+  },
+  "rookie": {
+    "decks": {
+      "1576191933777": {
+        "name": "Exam Study Guide",
+        "author": "rookie",
+        "cards": []
+      }
+    }
+  },
+  "jsoijsoi": {
+    "decks": {
+      "1576191972840": {
+        "name": "Starter Deck",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          }
+        ]
+      },
+      "1576192057769": {
+        "name": "ha",
+        "author": "jsoijsoi",
+        "cards": [
+          {
+            "front": "what is my name?",
+            "back": "Paul"
+          }
+        ]
+      },
+      "1576192116565": {
+        "name": "Another Deck",
+        "author": "jsoijsoi",
+        "cards": []
+      }
+    }
+  },
+  "lol": {
+    "decks": {
+      "1576192289729": {
+        "name": "Starter Deck",
+        "author": "lol",
+        "cards": [
+          {
+            "front": "What is the capital of France?",
+            "back": "Paris"
+          },
+          {
+            "front": "Captial of Russia",
+            "back": "I don't now"
+          }
+        ]
+      }
+    }
+  },
+  "tn": {
+    "decks": {
+      "1576192657354": {
+        "name": "Starter Deck",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          }
+        ]
+      }
+    }
+  },
+  "hds": {
+    "decks": {
+      "1576192901005": {
+        "name": "Starter Deck",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          }
+        ]
+      }
+    }
+  },
+  "scotth": {
+    "decks": {
+      "1576193187686": {
+        "name": "Starter Deck",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          },
+          {
+            "front": "idk",
+            "back": "I have no idea"
+          }
+        ]
+      },
+      "1576193320726": {
+        "name": "Scotths Deck",
+        "author": "scotth",
+        "cards": []
+      },
+      "1576193361648": {
+        "name": "MWP",
+        "author": "scotth",
+        "cards": [
+          {
+            "front": "Who is the coolest dude in COMP 426",
+            "back": "You"
+          },
+          {
+            "front": "Do you like pizza?",
+            "back": "who the fuck doesn't"
+          }
+        ]
+      }
+    }
+  },
+  "lggarcia": {
+    "decks": {
+      "1576193601016": {
+        "name": "Starter",
+        "author": "lggarcia",
+        "cards": [
+          {
+            "front": "back",
+            "back": "front"
+          }
+        ]
+      }
+    }
+  },
+  "ih": {
+    "decks": {
+      "1576193799410": {
+        "name": "Starter Deck",
+        "author": "batman",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          }
+        ]
+      }
+    }
+  },
+  "testfinal": {
+    "userInfo": {
+      "target": "General"
+    }
+  },
+  "testfinal2": {
+    "userInfo": {
+      "target": "General"
+    },
+    "decks": {
+      "1576207214533": {
+        "name": "Starter Deck",
+        "author": "Tom from Myspace",
+        "cards": [
+          {
+            "front": "1 + 1",
+            "back": "2"
+          },
+          {
+            "front": "What is the capital of Europe",
+            "back": "Trick Question"
+          },
+          {
+            "front": "What is meaning of life.",
+            "back": "42"
+          },
+          {
+            "front": "What would YOU do for a butterfinger?",
+            "back": "I don't even know my self"
+          }
+        ]
+      }
+    }
+  }
 }
